@@ -101,13 +101,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-30" value="RETURN" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525" y="360.1699999999999" width="110" height="40" as="geometry" />
+          <mxGeometry x="525" y="319.9999999999999" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-32" target="O4xx6mC76rvQ0KCR2Um3-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O4xx6mC76rvQ0KCR2Um3-32" value="retiredFund = (retiredFund - RETIRED_COST) * (1 + SIMPLE_INTEREST)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="497.5" y="99.83" width="165" height="69.83" as="geometry" />
+        <mxCell id="O4xx6mC76rvQ0KCR2Um3-32" value="retiredFund = (retiredFund - RETIRED_COST) * (1 + SIMPLE_INTEREST)&lt;br&gt;&lt;br&gt;retiredYear =&lt;br&gt;retiredYear + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="497.5" y="99.83" width="165" height="110.17" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-47" target="O4xx6mC76rvQ0KCR2Um3-48">
           <mxGeometry relative="1" as="geometry" />
@@ -146,17 +146,11 @@
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-63" value="retiredFund = careerYears&lt;br&gt;* annualSavings&lt;br&gt;* SIMPLE_INTEREST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="277.5" y="380.34" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O4xx6mC76rvQ0KCR2Um3-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-66" target="O4xx6mC76rvQ0KCR2Um3-68">
+        <mxCell id="O4xx6mC76rvQ0KCR2Um3-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-66" target="O4xx6mC76rvQ0KCR2Um3-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-66" value="output &quot;Funds&lt;br&gt;&amp;nbsp;remaining after Year&quot;,&lt;br&gt;retiredYears, &quot;:&quot;,&lt;br&gt;retiredFund" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="492.5" y="190" width="175" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="O4xx6mC76rvQ0KCR2Um3-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-68" target="O4xx6mC76rvQ0KCR2Um3-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O4xx6mC76rvQ0KCR2Um3-68" value="retiredYear =&lt;br&gt;retiredYear + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="280.34" width="120" height="60" as="geometry" />
+          <mxGeometry x="492.5" y="230" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-69" target="O4xx6mC76rvQ0KCR2Um3-15">
           <mxGeometry relative="1" as="geometry" />
