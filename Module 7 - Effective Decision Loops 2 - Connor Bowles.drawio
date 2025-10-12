@@ -59,24 +59,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-17" value="setup ()" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="40" width="110" height="40" as="geometry" />
+          <mxGeometry x="240" y="39.83" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-19" target="O4xx6mC76rvQ0KCR2Um3-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-19" value="output &quot;Please enter&lt;br&gt;&amp;nbsp;the number of years&lt;br&gt;remaining in your career.&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="99.83" width="170" height="60" as="geometry" />
+          <mxGeometry x="210" y="99.66" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="314.9565217391305" y="240" as="targetPoint" />
+            <mxPoint x="294.9565217391305" y="239.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-21" value="input&lt;br&gt;careerYears" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="235" y="179.83" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-22" value="RETURN" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="380.17" width="110" height="39.83" as="geometry" />
+          <mxGeometry x="240" y="380" width="110" height="39.83" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-24" target="O4xx6mC76rvQ0KCR2Um3-26">
           <mxGeometry relative="1" as="geometry" />
@@ -117,13 +117,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-47" value="output &quot;Please enter&lt;br&gt;&amp;nbsp;the amount (in $) you can&lt;br&gt;save annually.&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="240.17" width="170" height="60" as="geometry" />
+          <mxGeometry x="210" y="240" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O4xx6mC76rvQ0KCR2Um3-48" target="O4xx6mC76rvQ0KCR2Um3-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O4xx6mC76rvQ0KCR2Um3-48" value="input&lt;br&gt;annualSavings" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="320.3399999999999" width="120" height="39.83" as="geometry" />
+          <mxGeometry x="235" y="320.1699999999999" width="120" height="39.83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
